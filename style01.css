@@ -1,0 +1,142 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;
+    border: solid;
+    border-radius: 10px;
+   background-color: floralwhite;
+    font-size:16px;
+    font-weight: 300;
+    text-align: center;
+    position: fixed;
+    z-index: 100;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: 300;
+    border: solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    width: 100%;
+    height: 40px;
+}
+.h2{
+    font-size: 30px;
+    font-weight: 300;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.box0{
+    background-image: url(00.webp);
+    width: 50%;
+    height: auto;
+    border: solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 300;
+    width: 100%;
+    height: 80px;
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+div{
+    font-size: 20px;
+    font-weight: 300;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: solid;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+border-radius: 10px;
+border: solid;
+width: 30%;
+height: 50%;
+background-image: url(01.webp);
+}
+.box2{
+    border-radius: 10px;
+    border: solid;
+    width: 30%;
+    height: 50%;
+    background-image: url(02.webp);
+}
+.box3{
+    border-radius: 10px;
+    border: solid;
+    width: 30%;
+    height: 50%;
+    background-image: url(03.webp);
+}
+.box4{
+    border-radius: 10px;
+    border: solid;
+    width: 30%;
+    height: 50%;
+    background-image: url(04.webp);
+}
+.box5{
+    border-radius: 10px;
+    border: solid;
+    width: 30%;
+    height: 50%;
+    background-image: url(05.webp);
+}
+.box6{
+    border-radius: 10px;
+    border: solid;
+    width: 30%;
+    height: 50%;
+    background-image: url(06.webp);
+}
+.box7{
+    background-image: url(07.webp);
+    border-radius: 10px;
+    border: solid;
+    width: 20%;
+    height: 50%;
+}
+.box8{
+    background-image: url(08.webp);
+    border-radius: 10px;
+    border: solid;
+    width: 20%;
+    height: 50%;
+}
+.box9{
+    background-image: url(09.webp);
+    border-radius: 10px;
+    border: solid;
+    width: 20%;
+    height: 50%;
+}
+.box10{
+    background-image: url(10.webp);
+    border-radius: 10px;
+    border: solid;
+    width: 20%;
+    height: 50%;
+}
+.item3{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 300;
+    background-color: cornsilk;
+}
