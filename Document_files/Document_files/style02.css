@@ -29,7 +29,7 @@
     border-bottom: grey;
     border-radius: 20px;
     border: solid;
-    background-image: url(35webp);
+    background-image: url(css/35.jpg);
 }
 .item2{
     font-size: 20px;
@@ -48,7 +48,7 @@
     justify-content: space-around;
     border-radius: 20px;
     border: solid;
-    background-image: url(21webp);
+    background-image: url(css/21,jpg);
     width: 25%;
     height: 50%;
     border-color: gold;
@@ -111,16 +111,16 @@
 .item7{
     display: flex;
     justify-content: space-around;
-    background-image: url(00png);
+    background-image: url(css/000.png);
     width: 25%;
     height: 100%;
-    background-image: url(01png);
+    background-image: url(css/111.png);
     width: 25%;
     height: 100%;
-    background-image: url(02png);
+    background-image: url(css/222.png);
     width: 25%;
     height: 100%;
-    background-image: url(03png);
+    background-image: url(css/333.png);
     width: 25%;
     height: 100%;
 }
